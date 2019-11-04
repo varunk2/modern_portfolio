@@ -31,3 +31,12 @@ function toggleMenu(){
         showMenu = false;
     }
 }
+
+// Typewriter Effect on text after lg-heading
+var typed = new Typed('.sm-heading', {
+    strings: ['^500Web Developer.', '^500Programmer.', '^500Game Developer.'],
+    showCursor: false,
+    typeSpeed: 30,
+    backSpeed: 30,
+    loop: true
+});
