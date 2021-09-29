@@ -9,7 +9,7 @@
   "author": "Varun Sharma",
   "license": "MIT",
   "dependencies": {
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "node-sass": "^4.13.0"
   }
 }
